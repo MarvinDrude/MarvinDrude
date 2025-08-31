@@ -22,5 +22,4 @@ I'm passionate about leveraging modern .NET technologies to create scalable, mai
 ## 📫 Get in Touch
 
 - Website: [marvindrude.com](https://marvindrude.com/)
-- LinkedIn: (add your link if you want!)
 - GitHub: [@MarvinDrude](https://github.com/MarvinDrude)
